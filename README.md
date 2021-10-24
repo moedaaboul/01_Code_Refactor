@@ -9,7 +9,9 @@
 * [Features](#features)
 * [Setup](#setup)
 * [Project Status](#features)
+* [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
+* [License](#license)
 
 ## General Information
 A marketing agency has hired me to refactor an existing site to make it more accessible. Goal is to address and meet the following criteria:
