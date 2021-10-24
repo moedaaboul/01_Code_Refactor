@@ -1,6 +1,6 @@
-# Project Name
+# Code Refactor
 > Code Refactor
-> Live demo [_here_](https://www.example.com). 
+> Live demo [_here_](https://moedaaboul.github.io/01_Code_Refactor/). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -28,6 +28,7 @@ Will only be using the following technologies:
 
 ## Appearance
 The following image shows the web application's appearance and functionality:
+
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/01-demo.png)
 

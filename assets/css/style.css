@@ -55,6 +55,16 @@ a {
     text-decoration: none;
 }
 
+/* Ruleset applied upon hovering/focusing on the alt links under the navigation bar */
+a:hover,
+a:focus {
+    color: #d9dcd6;
+    text-decoration: underline;
+    outline: none;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2); 
+
+}
+
 /* Ruleset applied to all paragraphs*/
 p {
     font-size: 16px;
@@ -89,6 +99,26 @@ p {
     margin-left: 20px;
 }
 
+/* Ruleset applied to the main article elements */
+.content article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+}
+
+/* Ruleset applied to the main image conent by specifying maximum height*/
+.content img {
+    max-height: 200px;
+}
+
+/* Ruleset applied to the h2 headers within the contents class */
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
 /* Ruleset applied to the benefits section elements which assigns 20% width of page size*/
 .benefits {
     margin-right: 20px;
@@ -118,24 +148,7 @@ p {
     max-width: 150px;
 }
 
-/* Ruleset applied to the main article elements */
-.content article {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-}
 
-/* Ruleset applied to the main image conent by specifying maximum height*/
-.content img {
-    max-height: 200px;
-}
-
-/* Ruleset applied to the h2 headers within the contents class */
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /* Ruleset applied to the footer section */
 footer {
@@ -157,15 +170,6 @@ footer p {
    
 }
 
-/* Ruleset applied upon hovering/focusing on the alt links under the navigation bar */
-a:hover,
-a:focus {
-    color: #d9dcd6;
-    text-decoration: underline;
-    outline: none;
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2); 
-
-}
 
 
 
