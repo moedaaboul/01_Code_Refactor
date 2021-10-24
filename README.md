@@ -29,7 +29,9 @@ Will only be using the following technologies:
 - CSS3
 
 ## Appearance
-The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.
+The following screenshot resembles the functionality and output of our webpage: 
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-demo.png)
 
 
 ## Features
