@@ -51,12 +51,14 @@ This layout is designed for desktop viewing, so you may notice that some of the 
 Created by [@moedaaboul](https://github.com/moedaaboul) - feel free to contact me!
 
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
 
 ## License
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+<br><br>
 [![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
